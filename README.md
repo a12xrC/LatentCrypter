@@ -1,15 +1,6 @@
 # LatentCrypter
 FUD Runtime Crypter w Interactive CLI 
 
-
-
-██████╗  █████╗ ████████╗███████╗███╗   ██╗████████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔════╝████╗  ██║╚══██╔══╝
-██████╔╝███████║   ██║   █████╗  ██╔██╗ ██║   ██║   
-██╔═══╝ ██╔══██║   ██║   ██╔══╝  ██║╚██╗██║   ██║   
-██║     ██║  ██║   ██║   ███████╗██║ ╚████║   ██║   
-╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝   
-
 Manual-mapping, ChaCha20-encrypted DLL crypter + injector. Fully runtime, shellcode-based, and paranoid-friendly.
 Features
 - ChaCha20 Encryption: Secure, fast, and stream-based cipher
